@@ -1,2 +1,2 @@
 # Imnie
- Uma assistente que iria te ajudar em tudo
+ Uma assistente que vai te ajudar em tudo
